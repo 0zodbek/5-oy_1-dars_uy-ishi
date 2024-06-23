@@ -141,7 +141,21 @@
 // let b = a.toUpperCase();
 // console.log(b);
 
-//2-masala
-// let 
+// 2-masala
+// function includescheck(arg) {
+//     let res;
+//     res = arg.includes("substring")
+
+//     return res;
+// }
+// console.log(includescheck("substring mainstring substr upperstring"));
+
+//3-masala
+// function JavaScriptreplasetoJS(arg) {
+//   let res;
+//     res = arg.replaceAll("JavaScript","JS")
+//   return res;
+// }
+// console.log(JavaScriptreplasetoJS("JavaScript Lorem ipsum dolor JavaScript sit amet, consectetur JavaScript adipisicing elit JavaScript"));
 
 
